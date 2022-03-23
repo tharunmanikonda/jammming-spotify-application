@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jammming-spotify-application/static/css/main.473d31f6.chunk.css",
+    "main.js": "/jammming-spotify-application/static/js/main.e74badab.chunk.js",
+    "main.js.map": "/jammming-spotify-application/static/js/main.e74badab.chunk.js.map",
+    "runtime-main.js": "/jammming-spotify-application/static/js/runtime-main.a1167e0e.js",
+    "runtime-main.js.map": "/jammming-spotify-application/static/js/runtime-main.a1167e0e.js.map",
+    "static/js/2.7d1b00d2.chunk.js": "/jammming-spotify-application/static/js/2.7d1b00d2.chunk.js",
+    "static/js/2.7d1b00d2.chunk.js.map": "/jammming-spotify-application/static/js/2.7d1b00d2.chunk.js.map",
+    "static/js/3.ba82bce6.chunk.js": "/jammming-spotify-application/static/js/3.ba82bce6.chunk.js",
+    "static/js/3.ba82bce6.chunk.js.map": "/jammming-spotify-application/static/js/3.ba82bce6.chunk.js.map",
+    "index.html": "/jammming-spotify-application/index.html",
+    "static/css/main.473d31f6.chunk.css.map": "/jammming-spotify-application/static/css/main.473d31f6.chunk.css.map",
+    "static/js/2.7d1b00d2.chunk.js.LICENSE.txt": "/jammming-spotify-application/static/js/2.7d1b00d2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jammming-spotify-application/static/media/background_photo.a0687f3f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1167e0e.js",
+    "static/js/2.7d1b00d2.chunk.js",
+    "static/css/main.473d31f6.chunk.css",
+    "static/js/main.e74badab.chunk.js"
+  ]
+}
