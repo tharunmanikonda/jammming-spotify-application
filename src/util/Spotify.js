@@ -1,5 +1,5 @@
 const clientId = '05704e9ef8ee40158f8a91f3765c7231';
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://www.google.com/";
 
 let accessToken;
 
